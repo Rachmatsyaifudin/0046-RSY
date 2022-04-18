@@ -2,3 +2,6 @@ percobaan dalam pull dan push dalam github
 pertama bukalah cmd 
 lalu tuliskan 0046-RSY
 setelah itu tulisakn scritp yang sesuai dengan penjelasan
+kita menambahkan suatu cara untuk menambahkan file tersebut 
+dan hasilnya bita bisa membuat filenya tersebut 
+dengan ini hasilnya bisa selesai 
