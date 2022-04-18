@@ -1,0 +1,4 @@
+percobaan dalam pull dan push dalam github 
+pertama bukalah cmd 
+lalu tuliskan 0046-RSY
+setelah itu tulisakn scritp yang sesuai dengan penjelasan
